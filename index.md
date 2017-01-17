@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Bonvenon!! 
 
-You can use the [editor on GitHub](https://github.com/informadikistoj/retejo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Tiu ĉi estas retejo de kreota Asocio "Asocio de Junaj Programistoj". Nia asocio estas kreata ĉar ni vidas ke en esperantujo, pli kaj pli oni uzas informadikon por divastigi esperanton, kaj foje mankas konon de la asocioj pri la temo. Nia plej ĉefa celo estas krei iun komunumon de informadikistoj por helpi la uzadon de Esperanto en informadikistaj medioj (komputilo, interreto, poŝtelefono). Kelkaj aliaj celoj de la Asocio estos:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Instigi kaj kontribui al la uzado de libera programaro en esperanta movado;
+- Pliprofesigi la esperantaj programaroj;
+- Trejni junulojn pri informadiko;
+- Traduki programojn al esperanto;
+- Varbi pri esperanto en libera programada (eksteresperantuja) medio;
 
-### Markdown
+La asocio estas junulara ĉefe ĉar la homoj kiuj pensis pri ĝi estas junuloj kaj [TEJO](www.tejo.org)-membroj. Ankoraǔ ne ekzistas plenkreska asocio pri Informadikistoj, sed malgraǔ ke tiu Asocio estos junulargvidata, ĉiam estos spaco por kontribuantoj de ĉiuj aĝoj. La Asocio ankoraǔ ne havas membrojn, nek Estraron, nek statuton. Sed ni invitas vin por membri je la unua membraro de la asocio, kaj de tiam ni decidos pri la aliaj aferoj. Ne nur profesiaj informadikistoj rajtas aniĝi, sed ankaǔ tiuj kiuj havas intereson pri la agadkampo (eĉ se malformale) aǔ kiu volas lerni pri ĝi, aǔ kiu pensas ke povas kontribui kun la asocio kun siaj ne informadik-rilataj kapabloj (ekzemple: merkatikistoj, juristoj, ktp). Ni atendas vian aniĝon, estas SENPAGE.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Aniĝu ĉi tie] (http://eepurl.com/cxzzRf)
 
-```markdown
-Syntax highlighted code block
+#### [Ŝatu nian paĝonĉe Facebook](https://www.facebook.com/informadikistoj.org/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/informadikistoj/retejo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://scontent.fcpv2-1.fna.fbcdn.net/v/t31.0-8/15626282_164838307327640_5242798992800139750_o.png?oh=54a65ca006aa31b27a90654f08f638bf&oe=591D771E)
