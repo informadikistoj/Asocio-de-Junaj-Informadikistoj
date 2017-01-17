@@ -10,7 +10,7 @@ Tiu ĉi estas retejo de kreota Asocio "Asocio de Junaj Programistoj". Nia asocio
 
 La asocio estas junulara ĉefe ĉar la homoj kiuj pensis pri ĝi estas junuloj kaj [TEJO](www.tejo.org)-membroj. Ankoraǔ ne ekzistas plenkreska asocio pri Informadikistoj, sed malgraǔ ke tiu Asocio estos junulargvidata, ĉiam estos spaco por kontribuantoj de ĉiuj aĝoj. La Asocio ankoraǔ ne havas membrojn, nek Estraron, nek statuton. Sed ni invitas vin por membri je la unua membraro de la asocio, kaj de tiam ni decidos pri la aliaj aferoj. Ne nur profesiaj informadikistoj rajtas aniĝi, sed ankaǔ tiuj kiuj havas intereson pri la agadkampo (eĉ se malformale) aǔ kiu volas lerni pri ĝi, aǔ kiu pensas ke povas kontribui kun la asocio kun siaj ne informadik-rilataj kapabloj (ekzemple: merkatikistoj, juristoj, ktp). Ni atendas vian aniĝon, estas SENPAGE.
 
-#### [Aniĝu ĉi tie] (http://eepurl.com/cxzzRf)
+## [Aniĝu ĉi tie](http://eepurl.com/cxzzRf)
 
 ##### [Ŝatu nian paĝonĉe Facebook](https://www.facebook.com/informadikistoj.org/)
 
