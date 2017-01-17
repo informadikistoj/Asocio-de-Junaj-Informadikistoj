@@ -1,4 +1,5 @@
 ## Bonvenon!! 
+![Image](https://scontent.fcpv2-1.fna.fbcdn.net/v/t31.0-8/15626282_164838307327640_5242798992800139750_o.png?oh=54a65ca006aa31b27a90654f08f638bf&oe=591D771E)
 
 Tiu ĉi estas retejo de kreota Asocio "Asocio de Junaj Programistoj". Nia asocio estas kreata ĉar ni vidas ke en esperantujo, pli kaj pli oni uzas informadikon por divastigi esperanton, kaj foje mankas konon de la asocioj pri la temo. Nia plej ĉefa celo estas krei iun komunumon de informadikistoj por helpi la uzadon de Esperanto en informadikistaj medioj (komputilo, interreto, poŝtelefono). Kelkaj aliaj celoj de la Asocio estos:
 
@@ -13,5 +14,3 @@ La asocio estas junulara ĉefe ĉar la homoj kiuj pensis pri ĝi estas junuloj k
 ## [Aniĝu ĉi tie](http://eepurl.com/cxzzRf)
 
 ##### [Ŝatu nian paĝonĉe Facebook](https://www.facebook.com/informadikistoj.org/)
-
-![Image](https://scontent.fcpv2-1.fna.fbcdn.net/v/t31.0-8/15626282_164838307327640_5242798992800139750_o.png?oh=54a65ca006aa31b27a90654f08f638bf&oe=591D771E)
