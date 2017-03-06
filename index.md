@@ -15,7 +15,9 @@ Unue oni devas kompreni kio estas junularorganizo. Nia organizo celas atingi jun
 
 Unu de la ĉefaj kialoj ankaŭ estas praktika, Ana Ribeiro kiu estas nia ĉefa antaŭeniganto estas junulino: ŝi aĝas 20 jaroj, kaj ŝi jam estis Komitatano B de TEJO - Tutmonda Esperantista Junulara Organizo, Komisiito pri Scienca kaj Faka Agado en la sama organizo. Malgraŭ ke nuntempe ŝi estas estrarano en ISAE - Internacia Scienca Asocio Esperanta, ŝi sentas sin mute pli komforta en la junulara medio. Estus stranga al ŝi eki plenkreskan organizon, ĉar ŝi ne havas sufiĉan sperton en plenkreska movado. Ŝi pensis pri starigi plenkreskan asocion, sed ŝi decidis starigi nun junularan organizon, ĉar ŝi sufiĉe konas tiun medion.
 
+
 La dua kialo estas eblecoj kaj apogoj: estas multaj plenkreskaj fakaj asocioj, kaj malmultaj junularaj (UEA havas pli ol 35 fakaj sesioj, TEJO havas 2). Estus pli verŝajne ke oni renkontu apogon por kreado de nova junulara asocio (etose, labore, mone, ktp) ol de plenkreska organizo.
+
 
 Tio ne signifas ke la Asocio malpermesas maljunulojn: Ni tutcerte diskutos kiu estos la rolo de maljunaj membroj je nia organizo. Ni esperas ke ĉiuj aliĝu (se vi ankoraŭ ne tion faris, faru tion nun: http://informadikistoj.org/).
 
